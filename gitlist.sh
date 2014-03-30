@@ -71,6 +71,8 @@ https://github.com/fgont/ipv6toolkit.git
 https://github.com/mmoya/pkg-thc-ipv6.git
 https://github.com/leebaird/discover.git
 https://github.com/lightos/Panoptic.git
+https://github.com/QBurst/PenQ.git
+https://github.com/MooseDojo/Serpico.git
 EOF`
 cd /opt
 for i in $a
