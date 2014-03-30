@@ -62,6 +62,14 @@ https://github.com/robertdavidgraham/masscan.git
 https://github.com/macubergeek/gitlist.git
 https://github.com/opinkerfi/winexe.git
 https://github.com/kanzure/python-wmi-client-wrapper.git
+https://gist.github.com/9107276.git
+https://github.com/PenturaLabs/Linux_Exploit_Suggester.git
+https://github.com/mmoya/pkg-thc-ipv6.git
+https://github.com/bastibl/gr-rds.git
+https://github.com/Hood3dRob1n/creep3r.git
+https://github.com/fgont/ipv6toolkit.git
+https://github.com/mmoya/pkg-thc-ipv6.git
+https://github.com/leebaird/discover.git
 EOF`
 cd /opt
 for i in $a
