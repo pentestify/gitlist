@@ -77,6 +77,7 @@ https://github.com/maetrics/cna-scripts.git
 https://github.com/SpiderLabs/Responder.git
 https://github.com/mattifestation/PowerSploit.git
 https://github.com/danielmiessler/SecLists.git
+https://github.com/TigerSecurity/gerix-wifi-cracker.git
 EOF`
 cd /opt
 for i in $a
