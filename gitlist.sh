@@ -73,7 +73,10 @@ https://github.com/leebaird/discover.git
 https://github.com/lightos/Panoptic.git
 https://github.com/QBurst/PenQ.git
 https://github.com/MooseDojo/Serpico.git
-https://github.com/maetrics/cna-scripts.git 
+https://github.com/maetrics/cna-scripts.git
+https://github.com/SpiderLabs/Responder.git
+https://github.com/mattifestation/PowerSploit.git
+https://github.com/danielmiessler/SecLists.git
 EOF`
 cd /opt
 for i in $a
