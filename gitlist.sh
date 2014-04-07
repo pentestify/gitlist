@@ -3,7 +3,6 @@ a=`cat <<-EOF
 https://github.com/urbanesec/ZackAttack.git
 https://github.com/veil-evasion/Veil.git
 https://github.com/rogueclown/recon-scripts.git
-https://github.com/maetrics/recon-ng.git
 https://bitbucket.org/LaNMaSteR53/recon-ng.git
 https://bitbucket.org/LaNMaSteR53/honeybadger.git
 https://bitbucket.org/LaNMaSteR53/peepingtom.git
