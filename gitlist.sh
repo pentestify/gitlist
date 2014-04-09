@@ -83,6 +83,7 @@ https://github.com/wpscanteam/wpscan.git
 https://github.com/mubix/netview.git
 https://github.com/mubix/WhiteChapel.git
 https://github.com/mubix/deepmagic.git
+https://gist.github.com/10107280.git
 EOF`
 cd /opt
 for i in $a
