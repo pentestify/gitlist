@@ -8,6 +8,14 @@ https://davtest.googlecode.com/files/davtest-1.0.zip
 http://downloads.sourceforge.net/project/laudanum/laudanum-1.0/laudanum-1.0.tgz
 http://downloads.sourceforge.net/project/yokoso/yokoso-0.1/yokoso.0.1.tar.gz
 https://raw.github.com/hdm/scan-tools/master/nse/banner-plus.nse
+https://dl.dropbox.com/u/17744176/HDSDR%20OSX%202.51.dmg
+http://code.google.com/p/davtest/downloads/detail?name=davtest-1.0.zip&can=2&q=
+https://labs.portcullis.co.uk/download/wordpress-build-review_v1.0.tar.gz
+https://labs.portcullis.co.uk/download/rdp-sec-check-0.9.tgz
+https://labs.portcullis.co.uk/download/allthevhosts.tar.gz
+https://labs.portcullis.co.uk/download/ssl-cipher-suite-enum-v0.9.9.tar.gz
+https://labs.portcullis.co.uk/download/SSHatter-1.0.tar.gz
+https://davtest.googlecode.com/files/davtest-1.0.zip
 EOF`
 cd /opt
 for i in $a
