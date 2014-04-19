@@ -89,6 +89,7 @@ https://gist.github.com/9107284.git
 https://gist.github.com/9107276.git
 https://github.com/mmessano/PowerShell.git
 https://github.com/brav0hax/easy-creds.git
+https://github.com/felmoltor/DNSSnoopDogg.git
 EOF`
 cd /opt
 for i in $a
