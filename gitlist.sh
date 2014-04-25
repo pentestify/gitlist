@@ -90,6 +90,8 @@ https://gist.github.com/9107276.git
 https://github.com/mmessano/PowerShell.git
 https://github.com/brav0hax/easy-creds.git
 https://github.com/felmoltor/DNSSnoopDogg.git
+https://github.com/robertdavidgraham/heartleech.git
+git://git.openssl.org/openssl.git
 EOF`
 cd /opt
 for i in $a
