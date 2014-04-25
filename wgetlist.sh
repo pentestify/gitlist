@@ -19,6 +19,7 @@ https://davtest.googlecode.com/files/davtest-1.0.zip
 http://dev.zenoss.org/svn/trunk/inst/externallibs/wmi-1.3.7.tar.bz2
 http://www.toolswatch.org/dpe/dpeparser.py
 https://labs.portcullis.co.uk/download/enum4linux-0.8.9.tar.gz
+http://www.exploit-db.com/download/19091
 EOF`
 cd /opt
 for i in $a
