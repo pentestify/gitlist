@@ -17,6 +17,8 @@ https://labs.portcullis.co.uk/download/ssl-cipher-suite-enum-v0.9.9.tar.gz
 https://labs.portcullis.co.uk/download/SSHatter-1.0.tar.gz
 https://davtest.googlecode.com/files/davtest-1.0.zip
 http://dev.zenoss.org/svn/trunk/inst/externallibs/wmi-1.3.7.tar.bz2
+http://www.toolswatch.org/dpe/dpeparser.py
+https://labs.portcullis.co.uk/download/enum4linux-0.8.9.tar.gz
 EOF`
 cd /opt
 for i in $a
