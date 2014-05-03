@@ -93,6 +93,8 @@ https://github.com/felmoltor/DNSSnoopDogg.git
 https://github.com/robertdavidgraham/heartleech.git
 git://git.openssl.org/openssl.git
 https://github.com/mubix/netview.git
+https://github.com/mubix/WhiteChapel.git
+git://github.com/anestisb/WeBaCoo.git
 EOF`
 cd /opt
 for i in $a
