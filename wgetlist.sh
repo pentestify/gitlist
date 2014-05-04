@@ -25,6 +25,7 @@ http://packetstorm.igor.onlinedirect.bg/UNIX/penetration/rootkits/c99.tgz
 http://www.ampliasecurity.com/research/wce_v1_4beta_x64.zip
 http://www.ampliasecurity.com/research/wce_v1_4beta_x32.zip
 http://pastebin.com/download.php?i=TE3fvhEh
+https://raw.githubusercontent.com/zacinaction/kicksat-groundstation/master/SpriteReceiver.grc
 EOF`
 cd /opt
 for i in $a

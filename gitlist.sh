@@ -97,6 +97,7 @@ https://github.com/mubix/WhiteChapel.git
 git://github.com/anestisb/WeBaCoo.git
 https://gist.github.com/5371322.git
 https://github.com/slattman/php-reverse-shell.git
+git://github.com/zacinaction/kicksat.wiki.git
 EOF`
 cd /opt
 for i in $a
