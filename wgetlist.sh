@@ -20,6 +20,11 @@ http://dev.zenoss.org/svn/trunk/inst/externallibs/wmi-1.3.7.tar.bz2
 http://www.toolswatch.org/dpe/dpeparser.py
 https://labs.portcullis.co.uk/download/enum4linux-0.8.9.tar.gz
 http://www.exploit-db.com/download/19091
+http://packetstorm.igor.onlinedirect.bg/UNIX/penetration/aspxshell.aspx.txt
+http://packetstorm.igor.onlinedirect.bg/UNIX/penetration/rootkits/c99.tgz
+http://www.ampliasecurity.com/research/wce_v1_4beta_x64.zip
+http://www.ampliasecurity.com/research/wce_v1_4beta_x32.zip
+http://pastebin.com/download.php?i=TE3fvhEh
 EOF`
 cd /opt
 for i in $a
