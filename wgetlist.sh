@@ -26,6 +26,8 @@ http://www.ampliasecurity.com/research/wce_v1_4beta_x64.zip
 http://www.ampliasecurity.com/research/wce_v1_4beta_x32.zip
 http://pastebin.com/download.php?i=TE3fvhEh
 https://raw.githubusercontent.com/zacinaction/kicksat-groundstation/master/SpriteReceiver.grc
+https://github.com/CCSIR/PHP-EXIF-Backdoors-generator-using-custom-shellcode/raw/master/shellcode.php
+https://nishang.googlecode.com/files/nishang_0.3.0.zip
 EOF`
 cd /opt
 for i in $a
