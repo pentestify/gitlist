@@ -28,7 +28,7 @@ http://pastebin.com/download.php?i=TE3fvhEh
 https://raw.githubusercontent.com/zacinaction/kicksat-groundstation/master/SpriteReceiver.grc
 https://github.com/CCSIR/PHP-EXIF-Backdoors-generator-using-custom-shellcode/raw/master/shellcode.php
 https://nishang.googlecode.com/files/nishang_0.3.0.zip
-EOF`
+http://downloads.sourceforge.net/project/aspshell/aspshell/aspshell%200.2/aspshell-0.2.zip
 cd /opt
 for i in $a
 do
