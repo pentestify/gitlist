@@ -98,6 +98,8 @@ git://github.com/anestisb/WeBaCoo.git
 https://gist.github.com/5371322.git
 https://github.com/slattman/php-reverse-shell.git
 git://github.com/zacinaction/kicksat.wiki.git
+https://github.com/inquisb/keimpx.git
+https://github.com/TheRook/subbrute.git
 EOF`
 cd /opt
 for i in $a
