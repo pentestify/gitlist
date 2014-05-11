@@ -29,6 +29,7 @@ https://raw.githubusercontent.com/zacinaction/kicksat-groundstation/master/Sprit
 https://github.com/CCSIR/PHP-EXIF-Backdoors-generator-using-custom-shellcode/raw/master/shellcode.php
 https://nishang.googlecode.com/files/nishang_0.3.0.zip
 http://downloads.sourceforge.net/project/aspshell/aspshell/aspshell%200.2/aspshell-0.2.zip
+EOF`
 cd /opt
 for i in $a
 do

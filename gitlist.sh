@@ -100,6 +100,7 @@ https://github.com/slattman/php-reverse-shell.git
 git://github.com/zacinaction/kicksat.wiki.git
 https://github.com/inquisb/keimpx.git
 https://github.com/TheRook/subbrute.git
+https://gist.github.com/10171593.git
 EOF`
 cd /opt
 for i in $a
