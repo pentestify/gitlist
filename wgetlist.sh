@@ -23,6 +23,9 @@ http://pastebin.com/download.php?i=TE3fvhEh
 https://raw.githubusercontent.com/zacinaction/kicksat-groundstation/master/SpriteReceiver.grc
 https://github.com/CCSIR/PHP-EXIF-Backdoors-generator-using-custom-shellcode/raw/master/shellcode.php
 http://downloads.sourceforge.net/project/aspshell/aspshell/aspshell%200.2/aspshell-0.2.zip
+https://davtest.googlecode.com/files/davtest-1.0.zip
+https://github.com/obscuresec/random/raw/master/StartListener.py
+http://fimap.googlecode.com/files/fimap_alpha_v09.tar.gz
 EOF`
 cd /opt
 for i in $a
