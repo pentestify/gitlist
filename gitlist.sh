@@ -102,6 +102,8 @@ https://github.com/inquisb/keimpx.git
 https://github.com/TheRook/subbrute.git
 https://gist.github.com/10171593.git
 https://github.com/Veil-Framework/Veil-PowerView.git
+https://github.com/rsmudge/metasploit-loader.git
+https://gist.github.com/b54e50a3dddfb3fadd0a.git
 EOF`
 cd /opt
 for i in $a
