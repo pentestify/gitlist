@@ -28,7 +28,6 @@ https://github.com/7a/owtf.git
 https://github.com/beefproject/beef.git
 https://github.com/ianic/mssql.git
 https://github.com/milo2012/osintstalker.git
-https://github.com/mandatoryprogrammer/xssless.git
 https://github.com/mossmann/hackrf.git
 https://github.com/rsmudge/cortana-scripts.git
 https://github.com/Veil-Framework/Veil-Catapult.git
@@ -106,6 +105,7 @@ https://github.com/Veil-Framework/Veil-PowerView.git
 https://github.com/rsmudge/metasploit-loader.git
 https://gist.github.com/b54e50a3dddfb3fadd0a.git
 https://killerbee.googlecode.com/files/killerbee_1_0.tar
+https://github.com/jekyc/wig.git
 EOF`
 cd /opt
 for i in $a

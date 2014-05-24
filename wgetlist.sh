@@ -29,6 +29,7 @@ http://fimap.googlecode.com/files/fimap_alpha_v09.tar.gz
 https://ua-tester.googlecode.com/files/UAtester_PTEG.mht --no-check-certificate
 https://subterfuge.googlecode.com/files/subterfuge_1.0-1_all.deb --no-check-certificate
 http://valgrind.org/downloads/valgrind-3.9.0.tar.bz2
+https://hash-identifier.googlecode.com/files/Hash_ID_v1.1.py
 EOF`
 cd /opt
 for i in $a
