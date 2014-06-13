@@ -84,7 +84,6 @@ https://github.com/mubix/netview.git
 https://github.com/mubix/WhiteChapel.git
 https://github.com/mubix/deepmagic.git
 https://gist.github.com/10107280.git
-https://github.com/robertdavidgraham/masscan.git
 https://gist.github.com/9107284.git
 https://gist.github.com/9107276.git
 https://github.com/mmessano/PowerShell.git
