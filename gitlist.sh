@@ -107,6 +107,7 @@ https://killerbee.googlecode.com/files/killerbee_1_0.tar
 https://github.com/jekyc/wig.git
 https://github.com/bastibl/gr-ieee802-11.git
 https://github.com/dcramer/chardet.git
+https://github.com/client9/sslassert.git
 EOF`
 cd /opt
 for i in $a
