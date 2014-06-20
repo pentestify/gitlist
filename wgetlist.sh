@@ -31,6 +31,9 @@ https://subterfuge.googlecode.com/files/subterfuge_1.0-1_all.deb --no-check-cert
 http://valgrind.org/downloads/valgrind-3.9.0.tar.bz2
 https://hash-identifier.googlecode.com/files/Hash_ID_v1.1.py
 https://bitbucket.org/ariya/phantomjs/downloads/phantomjs-1.9.7-linux-x86_64.tar.bz2
+http://sparty.secniche.org/sparty_v_0.1.tar.gz
+http://downloads.sourceforge.net/project/spscan/spscan-v1.tar.gz
+http://downloads.sourceforge.net/project/netoolsh/opensource.tar.gz
 EOF`
 cd /opt
 for i in $a
