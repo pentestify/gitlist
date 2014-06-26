@@ -37,6 +37,7 @@ http://downloads.sourceforge.net/project/netoolsh/opensource.tar.gz
 https://fimap.googlecode.com/files/fimap_alpha_v09.tar.gz
 http://downloads.sourceforge.net/project/moscrack/moscrack-2.08b.tar.gz
 https://subterfuge.googlecode.com/files/subterfuge_1.0-1_all.deb
+http://www.toolswatch.org/dpe/dpeparser.py
 EOF`
 cd /opt
 for i in $a
