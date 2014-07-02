@@ -38,6 +38,7 @@ https://fimap.googlecode.com/files/fimap_alpha_v09.tar.gz
 http://downloads.sourceforge.net/project/moscrack/moscrack-2.08b.tar.gz
 https://subterfuge.googlecode.com/files/subterfuge_1.0-1_all.deb
 http://www.toolswatch.org/dpe/dpeparser.py
+http://www.techmeology.co.uk/gr-scan/gr-scan-2012082301.tar.gz
 EOF`
 cd /opt
 for i in $a

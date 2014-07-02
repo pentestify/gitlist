@@ -110,6 +110,8 @@ https://github.com/dcramer/chardet.git
 https://github.com/client9/sslassert.git
 https://github.com/toddsiegel/spscan.git
 https://github.com/EarToEarOak/RTLSDR-Scanner.git
+https://github.com/pentestgeek/phishing-frenzy
+https://github.com/keenerd/rtl-sdr.git
 EOF`
 cd /opt
 for i in $a
