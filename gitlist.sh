@@ -114,6 +114,12 @@ https://github.com/pentestgeek/phishing-frenzy
 https://github.com/keenerd/rtl-sdr.git
 https://github.com/commonexploits/livehosts.git
 https://gist.github.com/2260182.git
+https://github.com/commonexploits/dtpscan.git
+https://github.com/nccgroup/vlan-hopping.git
+https://github.com/commonexploits/weape.git
+https://github.com/nccgroup/cisco-SNMP-enumeration.git
+https://github.com/nccgroup/easyda.git
+https://github.com/commonexploits/weape.git
 EOF`
 cd /opt
 for i in $a
