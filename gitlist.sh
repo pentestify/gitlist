@@ -125,6 +125,7 @@ https://github.com/keenerd/rtl-sdr.git
 git://github.com/waynearmorize/drivesploit
 https://github.com/epinna/Weevely.git
 https://github.com/greatscottgadgets/ubertooth.git
+https://github.com/greatscottgadgets/gr-bluetooth.git
 EOF`
 cd /opt
 for i in $a
