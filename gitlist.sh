@@ -123,6 +123,8 @@ https://github.com/commonexploits/weape.git
 https://code.google.com/p/lazykali/
 https://github.com/keenerd/rtl-sdr.git
 git://github.com/waynearmorize/drivesploit
+https://github.com/epinna/Weevely.git
+https://github.com/greatscottgadgets/ubertooth.git
 EOF`
 cd /opt
 for i in $a
