@@ -126,6 +126,8 @@ git://github.com/waynearmorize/drivesploit
 https://github.com/epinna/Weevely.git
 https://github.com/greatscottgadgets/ubertooth.git
 https://github.com/greatscottgadgets/gr-bluetooth.git
+https://github.com/georgiaw/Smartphone-Pentest-Framework.git
+https://github.com/averagesecurityguy/scripts.git
 EOF`
 cd /opt
 for i in $a
