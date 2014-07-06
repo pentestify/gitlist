@@ -120,6 +120,8 @@ https://github.com/commonexploits/weape.git
 https://github.com/nccgroup/cisco-SNMP-enumeration.git
 https://github.com/nccgroup/easyda.git
 https://github.com/commonexploits/weape.git
+https://code.google.com/p/lazykali/
+https://github.com/keenerd/rtl-sdr.git
 EOF`
 cd /opt
 for i in $a
