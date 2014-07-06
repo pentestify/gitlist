@@ -12,7 +12,6 @@ https://labs.portcullis.co.uk/download/allthevhosts.tar.gz
 https://labs.portcullis.co.uk/download/ssl-cipher-suite-enum-v0.9.9.tar.gz 
 https://labs.portcullis.co.uk/download/SSHatter-1.0.tar.gz
 http://dev.zenoss.org/svn/trunk/inst/externallibs/wmi-1.3.7.tar.bz2
-http://www.toolswatch.org/dpe/dpeparser.py
 https://labs.portcullis.co.uk/download/enum4linux-0.8.9.tar.gz 
 http://www.exploit-db.com/download/19091
 http://packetstorm.igor.onlinedirect.bg/UNIX/penetration/aspxshell.aspx.txt
@@ -40,6 +39,12 @@ https://subterfuge.googlecode.com/files/subterfuge_1.0-1_all.deb
 http://www.toolswatch.org/dpe/dpeparser.py
 http://www.techmeology.co.uk/gr-scan/gr-scan-2012082301.tar.gz
 https://labs.portcullis.co.uk/download/hoppy-1.8.1.tar.bz2
+http://tools.hackarmoury.com/hackarmoury.iso
+https://media.defcon.org/dc-18/tools/dc-18-isr-evilgrade-1.0.0.tar.gz
+https://media.defcon.org/dc-18/tools/dc-18-bluetooth.zip
+https://media.defcon.org/dc-16/tools/modscan_0.1.tar
+https://media.defcon.org/dc-16/tools/squirtle-1.1a.zip
+https://media.defcon.org/dc-16/tools/voiper-0.07.tar.gz
 EOF`
 cd /opt
 for i in $a

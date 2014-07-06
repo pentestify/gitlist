@@ -122,6 +122,7 @@ https://github.com/nccgroup/easyda.git
 https://github.com/commonexploits/weape.git
 https://code.google.com/p/lazykali/
 https://github.com/keenerd/rtl-sdr.git
+git://github.com/waynearmorize/drivesploit
 EOF`
 cd /opt
 for i in $a
