@@ -39,6 +39,7 @@ http://downloads.sourceforge.net/project/moscrack/moscrack-2.08b.tar.gz
 https://subterfuge.googlecode.com/files/subterfuge_1.0-1_all.deb
 http://www.toolswatch.org/dpe/dpeparser.py
 http://www.techmeology.co.uk/gr-scan/gr-scan-2012082301.tar.gz
+https://labs.portcullis.co.uk/download/hoppy-1.8.1.tar.bz2
 EOF`
 cd /opt
 for i in $a
