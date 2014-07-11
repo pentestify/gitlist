@@ -128,6 +128,7 @@ https://github.com/greatscottgadgets/ubertooth.git
 https://github.com/greatscottgadgets/gr-bluetooth.git
 https://github.com/georgiaw/Smartphone-Pentest-Framework.git
 https://github.com/averagesecurityguy/scripts.git
+https://github.com/EliasOenal/multimon-ng.git
 EOF`
 cd /opt
 for i in $a
