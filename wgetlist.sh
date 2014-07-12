@@ -47,6 +47,8 @@ https://media.defcon.org/dc-16/tools/squirtle-1.1a.zip
 https://media.defcon.org/dc-16/tools/voiper-0.07.tar.gz
 http://kmkeen.com/tmp/heatmap.py.txt
 http://www.exploresecurity.com/wp-content/uploads/custom/william.sh
+ftp://ftp.freeradius.org/pub/radius/old/freeradius-server-2.1.12.tar.bz2
+https://raw.github.com/brad-anton/freeradius-wpe/master/freeradius-wpe.patch
 EOF`
 cd /opt
 for i in $a
