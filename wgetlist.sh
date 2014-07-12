@@ -45,6 +45,8 @@ https://media.defcon.org/dc-18/tools/dc-18-bluetooth.zip
 https://media.defcon.org/dc-16/tools/modscan_0.1.tar
 https://media.defcon.org/dc-16/tools/squirtle-1.1a.zip
 https://media.defcon.org/dc-16/tools/voiper-0.07.tar.gz
+http://kmkeen.com/tmp/heatmap.py.txt
+http://www.exploresecurity.com/wp-content/uploads/custom/william.sh
 EOF`
 cd /opt
 for i in $a
