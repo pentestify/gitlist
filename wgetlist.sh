@@ -49,6 +49,8 @@ http://kmkeen.com/tmp/heatmap.py.txt
 http://www.exploresecurity.com/wp-content/uploads/custom/william.sh
 ftp://ftp.freeradius.org/pub/radius/old/freeradius-server-2.1.12.tar.bz2
 https://raw.github.com/brad-anton/freeradius-wpe/master/freeradius-wpe.patch
+https://autocrack.googlecode.com/files/autocrack3.1.sh
+https://autosploit.googlecode.com/files/autosploit.pl
 EOF`
 cd /opt
 for i in $a
